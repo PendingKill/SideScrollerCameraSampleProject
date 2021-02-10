@@ -6,5 +6,7 @@ This is the sample project showcased in [this YouTube](https://youtu.be/XndgQ0Nl
 
 [For the full documentation, click here.](https://docs.google.com/document/d/1Ektb9swRhXnSeEeRl-yHALrPI1y0MfbCN8uJOZpGjWA/edit?usp=sharing)
 
+There is a [YouTube tutorial](https://youtu.be/a5Y_FKNyBI0) as well.
+
 This is the layout of the map:
 ![Layout](map_layout.png)
